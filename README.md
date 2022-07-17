@@ -4,7 +4,7 @@
 
 🛠 Estudando Advpl | Html | CSS | JavaScript | Angular | PO UI 
 
-🏁 Meu objetivo é me tornar Desenvolvedor Advpl, dominar o framework Angular e biblioteca PO UI. Além de ter conhecimento em front-end. 
+🏁 Meu objetivo é se tornar Desenvolvedor Advpl, dominar o framework Angular e biblioteca PO UI. Além de ter conhecimento em front-end. 
 
 <div>
   <a href="https://github.com/daviturquetti">
