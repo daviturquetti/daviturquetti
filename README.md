@@ -6,10 +6,7 @@
 
 🏁 Meu objetivo é se tornar Desenvolvedor Advpl, dominar o framework Angular e biblioteca PO UI. Além de ter conhecimento em front-end. 
 
-<div>
-  <a href="https://github.com/daviturquetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviturquetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviturquetti)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="davi-Advpl" height="30" width="40" src="https://s2.svgbox.net/files.svg?ic=advpl">
