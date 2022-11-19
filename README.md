@@ -1,10 +1,10 @@
 ## Olá, Eu sou o Davi Turquetti!
 
-💻 Hoje trabalho como Analista de negócios Pleno - ERP Protheus
+💻 Hoje trabalho como Analista de suporte - ERP Protheus
 
 🛠 Estudando Advpl | Html | CSS | JavaScript | Angular | PO UI 
 
-🏁 Meu objetivo é se tornar Desenvolvedor Advpl, dominar o framework Angular e biblioteca PO UI. Além de ter conhecimento em front-end. 
+🏁 Desenvolvedor Advpl, dominar o framework Angular e biblioteca PO UI. Além de ter conhecimento em front-end. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviturquetti)](https://github.com/anuraghazra/github-readme-stats)
 
