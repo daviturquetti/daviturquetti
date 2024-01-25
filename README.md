@@ -1,7 +1,7 @@
 ## hey guys, how are you? I will share with you some repositories with the skills I have been studying
 
 ## about my career
-Software Developer, working with C#, Advpl, JavaScript, Angular
+Software Developer, working with C#, Advpl, JavaScript, Angular, AWS, TypeScript, TL++
 
 <div style="display: inline_block"><br>
   <img align="center" alt="davi-Advpl" height="30" width="40" src="https://s2.svgbox.net/files.svg?ic=advpl">
