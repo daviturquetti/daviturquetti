@@ -1,5 +1,3 @@
-## ..... 🖐️
-
 ## about my career
 Software Developer, working with C#, Advpl, JavaScript, Angular, AWS, TypeScript, TL++
 
