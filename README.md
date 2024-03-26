@@ -1,4 +1,4 @@
-## hey guys, how are you? I will share with you some repositories with the skills I have been studying 🖐️
+## ..... 🖐️
 
 ## about my career
 Software Developer, working with C#, Advpl, JavaScript, Angular, AWS, TypeScript, TL++
