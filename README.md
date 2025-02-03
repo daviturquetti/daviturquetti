@@ -1,5 +1,5 @@
 ## about my career
-Software Developer, working with C#, Advpl, JavaScript, Angular, AWS, TypeScript, TL++
+Software Developer, working with enterprise resurse planning TOTVS-Protheus, i know: Advpl, JavaScript, Angular, AWS, TypeScript, TL++
 
  ## skills
 <div style="display: inline_block">
